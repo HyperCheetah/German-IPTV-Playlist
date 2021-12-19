@@ -147,7 +147,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc2a961bac1f70009c
 #EXTINF:-1 tvg-name="Phoenix" tvg-logo="https://raw.githubusercontent.com/HyperCheetah/IPTV/master/logo/phoenix.png",Phoenix 
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 
-#EXTINF:-1 tvg-name="Tagesschau24" tvg-logo="https://raw.githubusercontent.com/HyperCheetah/IPTV/master/logo/tagesschau.png",Tagesschau24 
+#EXTINF:-1 tvg-name="Tagesschau24" tvg-logo="https://raw.githubusercontent.com/HyperCheetah/IPTV/master/logo/tagesschau24.png",Tagesschau24 
 https://tagesschau-lh.akamaihd.net/i/tagesschau_3@66339/master.m3u8
 
 #EXTINF:-1 tvg-name="ARDalpha" tvg-logo="https://raw.githubusercontent.com/HyperCheetah/IPTV/master/logo/ardalpha.png",ARDalpha 
@@ -252,6 +252,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3bd0e63f793300071
 
 
 
+
 #EXTINF:-1 tvg-id="AntenneVorarlberg.de" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/HyperCheetah/IPTV/master/logo/antennevorarlberg.PNG",Antenne Vorarlberg
 http://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
 
@@ -269,14 +270,3 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f98471110cca20007d
 
 #EXTINF:0 channel-id="clubbing-tv-de" tvg-logo="http://images.pluto.tv/channels/5f984784ccb4de0007dfad74/solidLogoPNG.png", Clubbing TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6365d8b1-c767-11eb-9bd7-bda8eefed6eb&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9d2fccb1-c7f2-4ad0-913e-3c67f1363626&userId=&serverSideAds=true
-
-
-
-#EXTINF:-1 tvg-id="123TV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/HyperCheetah/IPTV/master/logo/123tv.PNG",1-2-3 TV
-http://123tv-mx1.flex-cdn.net/index.m3u8
-
-#EXTINF:-1 tvg-name="HSE 24" tvg-logo="https://raw.githubusercontent.com/HyperCheetah/IPTV/master/logo/hse24.jpg",HSE 24 
-https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Sonnenklar" tvg-logo="https://raw.githubusercontent.com/HyperCheetah/IPTV/master/logo/sonnenklartv.png",Sonnenklar 
-https://edge0751-05mx1.flex-cdn.net/4ffcf3cc56f1df145adb5b9ae0c77d8df931da78f21ed0c4609e/index.m3u8
