@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml"
+#EXTM3U url-tvg=""
 #EXTINF:-1 tvg-name="KiKA" tvg-logo="https://raw.githubusercontent.com/HyperCheetah/IPTV/master/logo/kika.png",KiKA 
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 
